@@ -1,0 +1,64 @@
+# עיר החול — Generative Engine Optimization Map
+
+> A הוצאה לאור / ספרות business.
+
+---
+
+## Pages
+
+### בית
+https://-99d4d8d5.zappy5.app
+צאו למסע רומנטי מרגש עם ספר מתח רומנטי ישראלי מקורי. הצטרפו למועדון קריאה ואירועי ספרות ותרבות ישראלית.
+
+### אודות הספר
+https://-99d4d8d5.zappy5.app/about
+הכירו את הסיפור המרתק מאחורי ספר מתח רומנטי שכבש את לב הקוראים הישראליים. מועדון קריאה ואירועי ספרות ותרבות.
+
+### מועדון קריאה
+https://-99d4d8d5.zappy5.app/reading-club
+הצטרפו למועדון קריאה שלנו ודונו בספר מתח רומנטי מרגש. אירועי ספרות ותרבות ישראלית, מפגשים ושיחות מעוררות מחשבה.
+
+### אירועים
+https://-99d4d8d5.zappy5.app/events
+הצטרפו לאירועי ספרות ותרבות ישראלית שלנו - מפגשים עם הסופר, סדנאות כתיבה, ודיונים על ספר מתח רומנטי ומועדון קריאה.
+
+### צור קשר
+https://-99d4d8d5.zappy5.app/contact
+צרו קשר לרכישת ספר מתח רומנטי, הצטרפות למועדון קריאה או אירועי ספרות ותרבות ישראלית. נשמח לענות על כל שאלה.
+
+## Legal & Policy
+
+### Privacy Policy
+https://-99d4d8d5.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-99d4d8d5.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-99d4d8d5.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About עיר החול
+עיר החול is a business in the הוצאה לאור / ספרות industry.
+
+## Target Audience
+- חובבי ספרות עירונית
+- קוראי צעירים
+- חברי מועדון קריאה
+- מבקרי אירועים תרבותיים
+
+## Industry
+הוצאה לאור / ספרות
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-99d4d8d5.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-99d4d8d5.zappy5.app/robots.txt
